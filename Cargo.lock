@@ -6063,7 +6063,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "oneDrive"
+name = "rustdesk"
 version = "1.4.0"
 dependencies = [
  "android-wakelock",
